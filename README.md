@@ -1,5 +1,5 @@
 # Introduction 
-Script para mover arquivos das empresas do CNAB ques estão localizados na pasta "recepcao" para a pasta "recepcaobkp".
+Script para mover arquivos que estão localizados na pasta "recepcao" para a pasta "recepcaobkp".
 
 # Getting Started
 1. Requisitos
